@@ -14,7 +14,9 @@ This project contains automated UI tests for the Tallinn Delivery application us
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-
+````
+https://github.com/GioKori/tallinn-playwright.git
+````
 
 ## install dependencies
 
@@ -27,8 +29,7 @@ npm install @faker-js/faker
 ```
 ```
 npm install dotenv
-
-
+```
 
 
 
