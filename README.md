@@ -25,6 +25,10 @@ This project contains automated UI tests for the Tallinn Delivery application us
 ```
 npm install @faker-js/faker
 ```
+```
+npm install dotenv
+
+
 
 
 
